@@ -72,7 +72,7 @@ Chatbot: perfecto tenemos convenio con CASUR a continuación te mensiono los det
   - Período de desembolso: del 20 al 6 de cada mes
 
 ¿Te gustaría saber si calificas para un crédito?
-
+\n
 Envíame una foto de tu último desprendible de pago y con gusto te diré si es viable otorgarte un crédito. 😊
 
 *(nota para el chatbot: lo anterior es un ejemplo con la entidad CASUR hacer lo mismo cuando el usuario responda con alguna de las entidades a continuación cada una tiene sus detalles y caracteristicas)*
@@ -89,7 +89,7 @@ Chatbot: ¡Gracias! - Para poder darte una cotización personalizada, necesito s
 
 Estamos procesando tu solicitud y te daremos una respuesta lo más pronto posible.
 
-¡Te mantendremos al tanto!
+¡Te mantendremos al tanto! )*
 
 
 */ LISTA DE EMPRESAS O ENTIDADES (convenios)
